@@ -1,0 +1,75 @@
+{"level":30,"time":"2021-10-17T02:38:50.332Z","pid":2652,"hostname":"Devacir","msg":"Listening on 56107"}
+{"level":30,"time":"2021-10-17T02:38:50.880Z","pid":2652,"hostname":"Devacir","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-17T02:38:50.897Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:38:51.010Z","pid":2652,"hostname":"Devacir","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-17T02:38:51.010Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
+{"level":30,"time":"2021-10-17T02:38:53.750Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=.navbar-item >> text= Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-17T02:38:53.907Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:38:53.907Z","pid":2652,"hostname":"Devacir","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-17T02:38:53.907Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
+{"level":30,"time":"2021-10-17T02:38:53.918Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:38:53.918Z","pid":2652,"hostname":"Devacir","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-17T02:38:53.918Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
+{"level":30,"time":"2021-10-17T02:38:54.330Z","pid":2652,"hostname":"Devacir","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-17T02:38:54.339Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:38:54.453Z","pid":2652,"hostname":"Devacir","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-17T02:38:54.453Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
+{"level":30,"time":"2021-10-17T02:38:56.598Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-17T02:38:57.683Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=.modal-card-title >> text=PIX"}
+{"level":30,"time":"2021-10-17T02:38:57.697Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=.select select"}
+{"level":30,"time":"2021-10-17T02:38:58.734Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-17T02:38:59.772Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=input[placeholder^=\"Valor\"]"}
+{"level":30,"time":"2021-10-17T02:39:00.806Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Enviar PIX"}
+{"level":30,"time":"2021-10-17T02:39:01.997Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:39:01.997Z","pid":2652,"hostname":"Devacir","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-17T02:39:01.997Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
+{"level":30,"time":"2021-10-17T02:39:02.011Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:39:02.011Z","pid":2652,"hostname":"Devacir","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-17T02:39:02.011Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
+{"level":30,"time":"2021-10-17T02:39:02.410Z","pid":2652,"hostname":"Devacir","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-17T02:39:02.421Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:39:02.537Z","pid":2652,"hostname":"Devacir","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-17T02:39:02.537Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
+{"level":30,"time":"2021-10-17T02:39:04.851Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-17T02:39:05.921Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=.modal-card-title >> text=PIX"}
+{"level":30,"time":"2021-10-17T02:39:05.934Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=.select select"}
+{"level":30,"time":"2021-10-17T02:39:06.956Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-17T02:39:07.979Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=input[placeholder^=\"Valor\"]"}
+{"level":30,"time":"2021-10-17T02:39:09.012Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Enviar PIX"}
+{"level":30,"time":"2021-10-17T02:39:10.105Z","pid":2652,"hostname":"Devacir","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-17T02:39:10.123Z","pid":2652,"hostname":"Devacir","msg":"Retrieved text for element css=.media-content >> text=Oops. Transferir ZERO é osso hein... containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-17T02:39:10.251Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:39:10.251Z","pid":2652,"hostname":"Devacir","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-17T02:39:10.251Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
+{"level":30,"time":"2021-10-17T02:39:10.265Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:39:10.265Z","pid":2652,"hostname":"Devacir","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-17T02:39:10.265Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
+{"level":30,"time":"2021-10-17T02:39:10.646Z","pid":2652,"hostname":"Devacir","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-17T02:39:10.654Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:39:10.777Z","pid":2652,"hostname":"Devacir","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-17T02:39:10.777Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
+{"level":30,"time":"2021-10-17T02:39:13.391Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-17T02:39:14.463Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=.modal-card-title >> text=PIX"}
+{"level":30,"time":"2021-10-17T02:39:14.478Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=.select select"}
+{"level":30,"time":"2021-10-17T02:39:15.510Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-17T02:39:16.532Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=input[placeholder^=\"Valor\"]"}
+{"level":30,"time":"2021-10-17T02:39:17.565Z","pid":2652,"hostname":"Devacir","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Enviar PIX"}
+{"level":30,"time":"2021-10-17T02:39:18.619Z","pid":2652,"hostname":"Devacir","msg":"Strict mode is: true"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=.media-content >> text=Oops. Valor para PIX incorreto..."
+============================================================
+    at C:\Users\devac\AppData\Roaming\Python\Python39\site-packages\Browser\wrapper\index.js:26342:50
+    at step (C:\Users\devac\AppData\Roaming\Python\Python39\site-packages\Browser\wrapper\index.js:26310:23)
+    at Object.next (C:\Users\devac\AppData\Roaming\Python\Python39\site-packages\Browser\wrapper\index.js:26291:53)
+    at fulfilled (C:\Users\devac\AppData\Roaming\Python\Python39\site-packages\Browser\wrapper\index.js:26282:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-17T02:39:28.881Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:39:28.881Z","pid":2652,"hostname":"Devacir","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-17T02:39:28.881Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
+{"level":30,"time":"2021-10-17T02:39:28.898Z","pid":2652,"hostname":"Devacir","msg":"Changed active context"}
+{"level":30,"time":"2021-10-17T02:39:28.898Z","pid":2652,"hostname":"Devacir","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-17T02:39:28.898Z","pid":2652,"hostname":"Devacir","msg":"Changed active page"}
